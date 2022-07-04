@@ -2,12 +2,6 @@
 
 ## Media queries responsiveness - Registration form
 
-Links to pages
+Links to GitHub pages
 
-HTML: https://github.com/Benedicte2019/media-queries-zuri/blob/main/index.html
-
-HTML error: https://github.com/Benedicte2019/media-queries-zuri/blob/main/error.html
-
-CSS: https://github.com/Benedicte2019/media-queries-zuri/blob/main/main.css
-
-CSS error: https://github.com/Benedicte2019/media-queries-zuri/blob/main/error.css
+https://benedicte2019.github.io/media-queries-zuri/
